@@ -1,8 +1,8 @@
-Python & Machine Learning
+# Python & Machine Learning
 
 My personal learning repository, following the GeeksforGeeks tutorials. Every topic gets its own notes, code examples or small projects.
 
-> The notes in this repo are written in my own words.
+> The notes and explanations were written mostly in my native language (Hungarian) to speed up my own learning process and to acquire a deep foundational knowledge.
 
 ## Table of Contents
 
