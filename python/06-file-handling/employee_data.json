@@ -1,0 +1,98 @@
+{
+    "company": "TechNova Solutions",
+    "department": "Engineering",
+    "employees": [
+        {
+            "id": "EMP-1001",
+            "firstName": "Sarah",
+            "lastName": "Connor",
+            "email": "sarah.connor@technova.com",
+            "position": "Senior Software Engineer",
+            "department": "Backend Development",
+            "salary": 115000,
+            "currency": "USD",
+            "hireDate": "2021-03-15",
+            "isFullTime": true,
+            "skills": [
+                "Python",
+                "Docker",
+                "PostgreSQL",
+                "AWS"
+            ],
+            "contact": {
+                "phone": "+1-555-019-2834",
+                "city": "Austin",
+                "state": "TX"
+            }
+        },
+        {
+            "id": "EMP-1002",
+            "firstName": "Marcus",
+            "lastName": "Vance",
+            "email": "marcus.vance@technova.com",
+            "position": "UI/UX Designer",
+            "department": "Product Design",
+            "salary": 92000,
+            "currency": "USD",
+            "hireDate": "2022-08-01",
+            "isFullTime": true,
+            "skills": [
+                "Figma",
+                "User Research",
+                "Prototyping",
+                "CSS"
+            ],
+            "contact": {
+                "phone": "+1-555-014-8821",
+                "city": "Seattle",
+                "state": "WA"
+            }
+        },
+        {
+            "id": "EMP-1003",
+            "firstName": "Elena",
+            "lastName": "Rostova",
+            "email": "elena.rostova@technova.com",
+            "position": "Data Scientist",
+            "department": "Analytics",
+            "salary": 108000,
+            "currency": "USD",
+            "hireDate": "2023-01-10",
+            "isFullTime": false,
+            "skills": [
+                "R",
+                "Python",
+                "Machine Learning",
+                "Tableau"
+            ],
+            "contact": {
+                "phone": "+1-555-017-9932",
+                "city": "Chicago",
+                "state": "IL"
+            }
+        },
+        {
+            "id": "EMP-1004",
+            "firstName": "David",
+            "lastName": "Kim",
+            "email": "david.kim@technova.com",
+            "position": "DevOps Engineer",
+            "department": "Infrastructure",
+            "salary": 120000,
+            "currency": "USD",
+            "hireDate": "2020-11-20",
+            "isFullTime": true,
+            "skills": [
+                "Kubernetes",
+                "Terraform",
+                "CI/CD",
+                "Linux"
+            ],
+            "contact": {
+                "phone": "+1-555-012-4455",
+                "city": "San Francisco",
+                "state": "CA"
+            }
+        }
+    ]
+}
