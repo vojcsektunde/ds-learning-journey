@@ -1,6 +1,6 @@
 # Python & Machine Learning
 
-My personal learning repository, following the GeeksforGeeks tutorials. Every topic gets its own notes, code examples or small projects.
+My personal learning repository, following tutorials. Every topic gets its own notes, code examples or small projects.
 
 > The notes and explanations were written mostly in my native language (Hungarian) to speed up my own learning process and to acquire a deep foundational knowledge.
 
@@ -24,9 +24,10 @@ ds-learning-journey/
 │   ├── 03-data-structures/
 │   ├── 04-oop/
 │   ├── 05-exceptions-files/
-│   ├── 06-databases/
-│   ├── 07-libraries/
-│   └── 08-projects/
+|   ├── 06-file-handling/
+│   ├── 07-databases/
+│   ├── 08-libraries/
+│   └── 09-projects/
 └── 02-machine-learning/
     ├── 01-fundamentals/
     ├── 02-math/
