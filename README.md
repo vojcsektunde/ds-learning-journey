@@ -26,21 +26,18 @@ ds-learning-journey/
 │   ├── 05-exceptions-files/
 |   ├── 06-file-handling/
 │   ├── 07-databases/
-│   ├── 08-libraries/
-│   └── 09-projects/
+│   └── 08-libraries/
 └── 02-machine-learning/
-    ├── 01-fundamentals/
-    ├── 02-math/
-    ├── 03-data-preparation/
-    ├── 04-eda/
-    ├── 05-supervised/
-    ├── 06-evaluation/
-    ├── 07-unsupervised/
-    ├── 08-reinforcement/
-    ├── 09-semi-self-supervised/
-    ├── 10-time-series/
-    ├── 11-deployment-mlops/
-    └── 12-projects/
+    ├── 01-math/
+    ├── 02-data-preparation/
+    ├── 03-eda/
+    ├── 04-supervised/
+    ├── 05-evaluation/
+    ├── 06-unsupervised/
+    ├── 07-reinforcement/
+    ├── 08-semi-self-supervised/
+    ├── 09-time-series/
+    └── 10-deployment-mlops/
 ```
 
 ## Getting Started
